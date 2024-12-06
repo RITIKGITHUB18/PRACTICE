@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "iostream": "cpp",
+    "xlocale": "cpp",
+    "stack": "cpp",
+    "queue": "cpp",
+    "ostream": "cpp",
+    "unordered_map": "cpp"
+  }
+}
